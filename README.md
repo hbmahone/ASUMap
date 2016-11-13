@@ -4,3 +4,4 @@ This is a Capstone project that I and several other students have started making
 If you would like to use any of the code, models, or documents in here for any professional use, please send a business inquery to the following email. All other questions can be sent to the same email as well. 
 
 hbmahone@gmail.com
+This is an exterior map for ASU Tempe Campus.

@@ -5,4 +5,5 @@ If you would like to use any of the code, models, or documents in here for any p
 
 hbmahone@gmail.com
 
-This is an exterior map for ASU Tempe Campus.
+This is a final product with Unity for this project.
+We are using this for implementation of our project.
